@@ -17,7 +17,7 @@ Conversational campaign intake → MOps review → auto-build in Marketo.
 | `MKTO_CLIENT_SECRET` | Your Client Secret from LaunchPoint |
 
 5. Redeploy after adding env vars
-6. Visit your URL — Campaign Builder is ready
+6. Visit your URL — Campaign Builder is ready!
 
 ## Local Development
 
